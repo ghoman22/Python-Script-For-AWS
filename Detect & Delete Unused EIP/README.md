@@ -1,6 +1,6 @@
 # 🌐 Tool Ngatur IP Elastic AWS 
 
-Tool keren pake bahasa Jakarta asli buat ngatur-ngatur alamat IP Elastic AWS dengan tampilan console yang cakep dan fitur yang mantap!
+Tool keren buat ngatur-ngatur alamat IP Elastic AWS dengan tampilan console yang cakep dan fitur yang mantap!
 
 ## ✨ Fitur yang Kece
 
@@ -221,10 +221,7 @@ User/role AWS lu butuh permission ini:
    Solusi: Specify region AWS yang valid pake flag --region
    ```
 
-## 🔄 Riwayat Versi
 
-- **v2.0.0 Edisi Betawi**: Rewrite lengkap pake rich UI dan bahasa Betawi
-- **v1.0.0**: Fungsionalitas dasar
 
 ## 📝 Lisensi
 
@@ -240,5 +237,3 @@ Tool ini disediain as-is buat keperluan edukasi dan operasional.
 ---
 
 **⚠️ Selalu test pake --dry-run dulu, Bos!**
-
-*Tool ini dibuat pake cinta dan semangat Jakarta! 🏙️*
