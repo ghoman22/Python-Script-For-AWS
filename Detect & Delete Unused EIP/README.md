@@ -221,9 +221,6 @@ python3 aws_resource_cleaner.py --dry-run --export-report --report-file monthly_
 python3 aws_resource_cleaner.py --help
 python3 delete_elastic_ip.py --help
 
-# Show usage examples
-./examples.sh
-
 # Test basic functionality
 python3 aws_resource_cleaner.py --version
 ```
